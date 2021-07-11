@@ -1,6 +1,5 @@
 package com.Bridgelabz;
-
-public class Stack 
+public class StackIs 
 {
 	Node top;
 	int size;
